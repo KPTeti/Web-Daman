@@ -1,0 +1,154 @@
+.logo{
+  display:block;
+  min-height:30px;
+  max-height:250px;
+  margin:0 auto;
+  padding-bottom:px;
+  padding-top: 20px;
+}
+
+.container-fluid{
+  background-color:red;
+
+}
+
+.redheader{
+  width:auto;
+  height:65px;
+  background-color:#CD0000;
+  margin-top:10px;
+}
+
+.btn.btn-default.btn-lg{
+  background:#CD0000;
+  color:white;
+  width:300px;
+  height:90px;
+  text-align:center;
+  border:20px;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  border-radius:10px;
+  font-size:30px;
+  padding-top: 25px;
+}
+
+div.buttondaman{
+  height:350px;
+  width:512px;
+}
+
+.text-center{
+  width:50%;
+}
+
+button.btn.btn-default{
+  background:#CD0000;
+  color:white;
+}
+
+.image{
+  background:url(../../assets/img/coffee.jpg) no-repeat;
+  height:auto;
+  width:auto;
+}
+
+div.conten{
+  height:350px;
+  width:100%;
+}
+
+div.gambar{
+  float:right;
+}
+
+.rounded.float-right{
+  padding:20px;
+  margin-top:40px;
+  margin-bottom:40px;
+  float:right;
+}
+
+footer{
+  background:#CD0000;
+  width:100%;
+  height:100%;
+  float:left;
+}
+
+p{
+  text-align:center;
+  color:white;
+  font-size:13px;
+  width:100%;
+}
+
+#footer{
+  background-color:#CD0000;
+}
+
+div.page-footer{
+  background:#CD0000;
+}
+
+#page-footer{
+  background:#CD0000;
+  width:100%;
+  position:relative;
+  bottom:0;
+  margin-top:5px;
+  padding-bottom:8px;
+  padding-top:15px;
+}
+
+#footer1{
+  text-align:center;
+  color:white;
+  padding:10px;
+}
+
+div.col-xs-3{
+  padding-top:150px;
+  float:left;
+  height:400px;
+  width:300px;
+}
+
+h1{
+  color:white;
+  text-align:center;
+  padding:15px;
+  font-size:30px;
+  font-weight:700;
+}
+form-control.input{
+  width:100px;
+}
+
+input.form-control.input{
+  width:75px;
+}
+
+.cttn1{
+  font-weight:800;
+}
+
+button{
+  background:blue;
+  color:white;
+  border-radius:5px;
+  width:100px;
+  height:35px;
+  text-align:center;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  border:20px;
+  font-size:18px;
+  margin-top:13px;
+}
+
+
+div.form{
+  padding-bottom:30px;
+  padding-top:20px;
+  margin:0 auto;
+  width:500px;
+}
